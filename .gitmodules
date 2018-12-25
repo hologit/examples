@@ -1,0 +1,4 @@
+[submodule ".holo/sources/bootstrap"]
+	path = .holo/sources/bootstrap
+	url = https://github.com/twbs/bootstrap
+	shallow = true
